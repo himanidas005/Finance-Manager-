@@ -1,1 +1,1 @@
-# Finance-Manager-
+Personal Finance Manager is a web application developed using the MERN stack for tracking expenses of the users. It provides adding, viewing, and managing the expenses with a basic and easy-to-use interface. The application saves data for future use and updates in real time, and it makes expense tracking easy and efficient.# Finance-Manager-
